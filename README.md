@@ -1,4 +1,5 @@
 # my-store
+仿照vuex写了commit，dispatch，getters
 
 ## Project setup
 ```
